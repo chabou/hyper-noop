@@ -1,6 +1,6 @@
 {
   "name": "hyper-noop",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "NOOP plugin for Hyper",
   "main": "index.js",
   "scripts": {
@@ -45,6 +45,5 @@
       "assets/**"
     ]
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
